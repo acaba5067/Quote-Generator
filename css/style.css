@@ -90,6 +90,7 @@ body{
 }
 @media(max-width:768px){
     .quote-box{
-        width: 730px;
+        width: 750px;
+        margin-left: 10px;
     }
 }
